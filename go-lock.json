@@ -1,4 +1,67 @@
 {
+  "1.23rc2": {
+    "rev": "30b6fd60a63c738c2736e83b6a6886a032e6f269",
+    "ref": "refs/tags/go1.23rc2",
+    "version": "1.23rc2",
+    "major": "1",
+    "minor": "23"
+  },
+  "1.23rc1": {
+    "rev": "7dff7439dcee8ff6cd83869d356accac1039c017",
+    "ref": "refs/tags/go1.23rc1",
+    "version": "1.23rc1",
+    "major": "1",
+    "minor": "23"
+  },
+  "1.22.6": {
+    "rev": "cb4eee693c382bea4222f20837e26501d40ed892",
+    "ref": "refs/tags/go1.22.6",
+    "version": "1.22.6",
+    "major": "1",
+    "minor": "22"
+  },
+  "1.22.5": {
+    "rev": "8e1fdea8316d840fd07e9d6e026048e53290948b",
+    "ref": "refs/tags/go1.22.5",
+    "version": "1.22.5",
+    "major": "1",
+    "minor": "22"
+  },
+  "1.22.4": {
+    "rev": "ace5bb40d027b718b67556afcd31bf54cff050ab",
+    "ref": "refs/tags/go1.22.4",
+    "version": "1.22.4",
+    "major": "1",
+    "minor": "22"
+  },
+  "1.22.3": {
+    "rev": "adbfb672ba485630d75f8b5598228a63f4af08a4",
+    "ref": "refs/tags/go1.22.3",
+    "version": "1.22.3",
+    "major": "1",
+    "minor": "22"
+  },
+  "1.22.2": {
+    "rev": "dddf0ae40fa0c1223aba191d73a44425a08e1035",
+    "ref": "refs/tags/go1.22.2",
+    "version": "1.22.2",
+    "major": "1",
+    "minor": "22"
+  },
+  "1.22.1": {
+    "rev": "db6097f8cbaceaed02051850d2411c88b763a0c3",
+    "ref": "refs/tags/go1.22.1",
+    "version": "1.22.1",
+    "major": "1",
+    "minor": "22"
+  },
+  "1.22.0": {
+    "rev": "a10e42f219abb9c5bc4e7d86d9464700a42c7d57",
+    "ref": "refs/tags/go1.22.0",
+    "version": "1.22.0",
+    "major": "1",
+    "minor": "22"
+  },
   "1.22rc2": {
     "rev": "1e1da4910546d7ef7e256011f165cb6be1d56451",
     "ref": "refs/tags/go1.22rc2",
@@ -12,6 +75,55 @@
     "version": "1.22rc1",
     "major": "1",
     "minor": "22"
+  },
+  "1.21.13": {
+    "rev": "8bba868de983dd7bf55fcd121495ba8d6e2734e7",
+    "ref": "refs/tags/go1.21.13",
+    "version": "1.21.13",
+    "major": "1",
+    "minor": "21"
+  },
+  "1.21.12": {
+    "rev": "12e9b968bc8890b072b98facbd079ca337bd33a0",
+    "ref": "refs/tags/go1.21.12",
+    "version": "1.21.12",
+    "major": "1",
+    "minor": "21"
+  },
+  "1.21.11": {
+    "rev": "48103d97a84d549b44bc4764df6958f73ba5ee02",
+    "ref": "refs/tags/go1.21.11",
+    "version": "1.21.11",
+    "major": "1",
+    "minor": "21"
+  },
+  "1.21.10": {
+    "rev": "752b009010df021c45f620e683ec062d22b552bf",
+    "ref": "refs/tags/go1.21.10",
+    "version": "1.21.10",
+    "major": "1",
+    "minor": "21"
+  },
+  "1.21.9": {
+    "rev": "d8392e69973a64d96534d544d1f8ac2defc1bc64",
+    "ref": "refs/tags/go1.21.9",
+    "version": "1.21.9",
+    "major": "1",
+    "minor": "21"
+  },
+  "1.21.8": {
+    "rev": "63992defa823418e8ad91a39777cd671cff89894",
+    "ref": "refs/tags/go1.21.8",
+    "version": "1.21.8",
+    "major": "1",
+    "minor": "21"
+  },
+  "1.21.7": {
+    "rev": "f29208030ab80769ce61dedb5a419821abf92113",
+    "ref": "refs/tags/go1.21.7",
+    "version": "1.21.7",
+    "major": "1",
+    "minor": "21"
   },
   "1.21.6": {
     "rev": "cc85462b3d23193e4861813ea85e254cfe372403",
@@ -89,6 +201,13 @@
     "version": "1.21rc1",
     "major": "1",
     "minor": "21"
+  },
+  "1.20.14": {
+    "rev": "90a870f1dc49bfcc6ffe95f80fbaf21875198e7a",
+    "ref": "refs/tags/go1.20.14",
+    "version": "1.20.14",
+    "major": "1",
+    "minor": "20"
   },
   "1.20.13": {
     "rev": "a95136a88cb8a51ede3ec2cdca4cfa3962dcfacd",
